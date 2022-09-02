@@ -1,1 +1,1 @@
-creates a directory
+moves betty to myfirst directory
