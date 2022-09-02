@@ -1,1 +1,1 @@
-print absolute pathname of current working directory
+Display list of your working directory
