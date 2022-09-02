@@ -1,1 +1,1 @@
-this folder containes all the scripts for the shell exercise
+this script prints the absolute path of the current working directory
