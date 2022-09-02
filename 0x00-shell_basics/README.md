@@ -1,1 +1,1 @@
-goes back to the previous directory 10
+list all the files
