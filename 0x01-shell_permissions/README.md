@@ -1,1 +1,1 @@
-displays all groups the user is part of
+chnages owner to betty
