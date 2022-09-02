@@ -1,1 +1,1 @@
-9 deletes the directory my first dir
+goes back to the previous directory 10
