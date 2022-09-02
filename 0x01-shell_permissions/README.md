@@ -1,1 +1,1 @@
- mirror permissions
+permisions to all directories
