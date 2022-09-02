@@ -1,1 +1,1 @@
-give everyybod permissions
+007 permision set to hello 
