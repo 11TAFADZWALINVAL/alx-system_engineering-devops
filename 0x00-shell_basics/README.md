@@ -1,1 +1,1 @@
- creates three directories
+lists a series of commas
