@@ -1,1 +1,1 @@
-deletes the file betty
+9 deletes the directory my first dir
