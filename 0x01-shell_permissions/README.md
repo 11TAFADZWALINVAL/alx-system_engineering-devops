@@ -1,1 +1,1 @@
-add multiple permisions
+give everyybod permissions
