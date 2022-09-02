@@ -1,1 +1,1 @@
-cleans emacs
+ creates three directories
