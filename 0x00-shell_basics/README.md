@@ -1,1 +1,1 @@
-moves betty to myfirst directory
+deletes the file betty
