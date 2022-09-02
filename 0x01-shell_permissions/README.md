@@ -1,1 +1,1 @@
-makes a file an executable
+add multiple permisions
