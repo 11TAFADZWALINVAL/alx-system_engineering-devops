@@ -1,1 +1,1 @@
-prints file type
+sysmbols within sysmbol 
