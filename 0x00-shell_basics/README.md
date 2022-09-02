@@ -1,1 +1,1 @@
-lists a series of commas
+list school data files
