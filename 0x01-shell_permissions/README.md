@@ -1,1 +1,1 @@
-permisions to all directories
+creates a file and assigns permissions
